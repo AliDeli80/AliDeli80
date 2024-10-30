@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **react & react native**
 
-- 💬 Ask me about **JavaScript, CSS, tailwind**
+- 💬 Ask me about **JavaScript, CSS, tailwind, HTML**
 
 - 📫 How to reach me **alidlgsh@gmail.com**
 
