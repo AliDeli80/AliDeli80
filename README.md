@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **alidlgsh@gmail.com**
 
-- ⚡ Fun fact **I love games**
+- ⚡ Fun fact **I love games!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
