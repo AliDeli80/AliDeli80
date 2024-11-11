@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Deli</h1>
-- 🌱 I’m currently learning **react native**
+- 🌱 I’m currently learning **react**
 
 - 💬 Ask me about **HTML, JavaScript, CSS, tailwind**
 
