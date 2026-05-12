@@ -74,15 +74,6 @@ Clean abstractions are earned through real constraints — not invented prematur
 
 </div>
 
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliDeli80&theme=tokyonight"/>
-
-</div>
-
 <br>
 
 <div align="center">
