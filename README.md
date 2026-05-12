@@ -39,27 +39,6 @@ I value long‑term maintainability, performance characteristics, and clean abst
 
 ---
 
-## Technical Signature
-
-<div align="center">
-
-<a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react&theme=dark"/></a>
-<a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts&theme=dark"/></a>
-<a href="https://nextjs.org"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark"/></a>
-<a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark"/></a>
-<a href="https://redux.js.org"><img src="https://skillicons.dev/icons?i=redux&theme=dark"/></a>
-<a href="https://vitejs.dev"><img src="https://skillicons.dev/icons?i=vite&theme=dark"/></a>
-<a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark"/></a>
-<a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres&theme=dark"/></a>
-<a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git&theme=dark"/></a>
-<a href="https://github.com"><img src="https://skillicons.dev/icons?i=github&theme=dark"/></a>
-<a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma&theme=dark"/></a>
-<a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode&theme=dark"/></a>
-
-</div>
-
----
-
 ## Engineering Interests
 
 - Frontend system architecture  
