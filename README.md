@@ -82,13 +82,11 @@ Clean abstractions are earned through real constraints — not invented prematur
 
 </div>
 
-<br>
+<br/>
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=AliDeli80&style=for-the-badge&color=blue" />
-
-</div>
+<p align="center">
+  <sub>—</sub>
+</p>
 
 <br>
 
