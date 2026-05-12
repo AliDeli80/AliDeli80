@@ -1,44 +1,65 @@
 <div align="center">
 
-# Ali Delgoshaei
-### Frontend Engineer
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=FFFFFF&center=true&width=520&lines=Designing+scalable+frontend+systems;Engineering+maintainable+React+applications;Clean+architecture+over+quick+fixes" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=900&color=0FF4F4&center=true&vCenter=true&width=600&lines=Ali+Delgoshaei;Frontend+Engineer;System+thinker+%7C+Performance+driven+%7C+React+specialist" />
+
+<br/><br/>
+
+### ⚛️ React • 🧩 TypeScript • ⚡ Next.js • 🎨 UI Architecture • 🌀 State Systems
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,js,git,figma&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,vite,git,github,html,css,figma,nodejs,python,bootstrap,postgres,vscode&theme=dark" />
+
+---
+
+</div>
+
+## About Me
+
+I’m a frontend engineer obsessed with **scalable systems**, predictable UI behavior, and code that ages gracefully.
+
+I specialize in building **React + TypeScript frontends** with a focus on:
+
+- architecture & state modeling  
+- performance-first patterns  
+- maintainable component systems  
+- clean data flow and predictable async behavior
+
+I’m comfortable working on both **greenfield builds** and **legacy React systems** that need modernization.
+
+I don’t just “write components”—I design **frontends that survive complexity**.
+
+---
+
+## Core Skillset
+
+<div align="center">
+
+### 🧠 Languages
+<img src="https://skillicons.dev/icons?i=ts,js,python&theme=dark"/>
+
+### ⚛️ Frontend Ecosystem
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,vite,tailwind,bootstrap&theme=dark"/>
+
+### 🛠️ Tools & Workflow
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark"/>
+
+### 📡 APIs & Data Handling
+<img src="https://skillicons.dev/icons?i=nodejs,postgres&theme=dark"/>
 
 </div>
 
 ---
 
-## About Me
+## Engineering Interests
 
-I’m a frontend engineer focused on building **robust, scalable, and maintainable web applications**.
-
-I work primarily with **React and modern frontend tooling**, paying close attention to **architecture, state management, performance, and long‑term code health**.  
-I enjoy working on systems that grow over time—whether that means evolving a legacy codebase or designing clean foundations from the start.
-
-I value clarity over cleverness, and engineering discipline over shortcuts.
-
----
-
-## Engineering Principles
-
-- Predictable state and data flow  
-- Explicit architecture decisions  
-- Performance as a feature, not an afterthought  
-- Code that reads well six months later  
-
----
-
-## Current Focus
-
-- Advanced React rendering patterns  
-- Frontend system design & architecture  
-- TypeScript for large-scale applications  
-- Debugging and performance profiling
+- React internals & rendering behavior  
+- System design for large frontends  
+- Advanced TypeScript utility patterns  
+- UI performance profiling  
+- Modernizing legacy codebases
 
 ---
 
@@ -46,13 +67,13 @@ I value clarity over cleverness, and engineering discipline over shortcuts.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=transparent&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" />
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=555555&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=2d9cec&style=flat" />
 
 </div>
 
@@ -60,6 +81,6 @@ I value clarity over cleverness, and engineering discipline over shortcuts.
 
 <div align="center">
 
-_Thinking in systems. Building with intent._
+### _Architecture over improvisation. Systems over chaos._
 
 </div>
