@@ -86,6 +86,14 @@ Clean abstractions are earned through real constraints — not invented prematur
 
 <div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=AliDeli80&style=for-the-badge&color=blue" />
+
+</div>
+
+<br>
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 
 </div>
