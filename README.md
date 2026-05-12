@@ -1,54 +1,81 @@
-<h1 align="center">Ali Delgoshaei</h1>
-<p align="center">
-  Frontend Developer crafting scalable, thoughtful, and high-quality web experiences.
+<div align="center">
+  <h1 align="center">سلام، من علی دلگشایی حقیقی هستم 👋</h1>
+  <h3 align="center">یک [عنوان حرفه‌ای شما، مثلا: توسعه‌دهنده نرم‌افزار] مستقر در [شهر شما]</h3>
+</div>
+
+---
+
+### 👨‍💻 درباره من
+
+<p>
+  من یک توسعه‌دهنده علاقه‌مند به [یکی دو تا از علاقه‌مندی‌های اصلی شما، مثلا: حل مسائل پیچیده و ساخت برنامه‌های کاربردی] هستم. با تجربه در [تکنولوژی‌های اصلی شما]، همیشه به دنبال یادگیری و رشد در دنیای تکنولوژی هستم.
+  <br><br>
+  - 🔭 در حال حاضر روی [پروژه‌ای که روی آن کار می‌کنید] کار می‌کنم.
+  - 🌱 در حال یادگیری [تکنولوژی یا زبان جدیدی که یاد می‌گیرید] هستم.
+  - 💬 خوشحال می‌شوم در مورد [موضوعی که به آن علاقه دارید] با شما صحبت کنم.
+  - 📫 راه‌های ارتباطی با من: [ایمیل شما]
 </p>
 
+---
+
+### 🛠️ مهارت‌ها و تکنولوژی‌ها
+
+در اینجا لیستی از تکنولوژی‌هایی که با آن‌ها کار کرده‌ام آمده است:
+
+<div>
+  <b>زبان‌های برنامه‌نویسی:</b>
+  <p>
+    <a href="#"><img alt="[زبان ۱]" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
+    <a href="#"><img alt="[زبان ۲]" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+    <!-- زبان‌های دیگر را اضافه کنید -->
+  </p>
+</div>
+
+<div>
+  <b>فریم‌ورک‌ها و کتابخانه‌ها:</b>
+  <p>
+    <a href="#"><img alt="[فریم‌ورک ۱]" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+    <a href="#"><img alt="[فریم‌ورک ۲]" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
+    <!-- فریم‌ورک‌های دیگر را اضافه کنید -->
+  </p>
+</div>
+
+<div>
+  <b>ابزارها و پایگاه‌داده:</b>
+  <p>
+    <a href="#"><img alt="[ابزار ۱]" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+    <a href="#"><img alt="[ابزار ۲]" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
+    <a href="#"><img alt="[دیتابیس ۱]" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+    <!-- ابزارهای دیگر را اضافه کنید -->
+  </p>
+</div>
+
+---
+
+### 🚀 پروژه‌های منتخب
+
+در اینجا چند پروژه که به آن‌ها افتخار می‌کنم را می‌توانید ببینید:
+
+| نام پروژه | توضیحات | تکنولوژی‌ها | لینک |
+|---|---|---|---|
+| **[نام پروژه ۱]** | [توضیح کوتاه و جذاب در مورد پروژه و کاری که انجام می‌دهد.] | `React`, `Node.js` | [لینک به پروژه/دمو] |
+| **[نام پروژه ۲]** | [توضیح کوتاه و جذاب در مورد پروژه و کاری که انجام می‌دهد.] | `Python`, `Django` | [لینک به پروژه/دمو] |
+
+---
+
+### 📊 آمار گیت‌هاب من
+
 <p align="center">
-  <a href="mailto:alidlgsh@gmail.com">Email</a> •
-  <a href="https://github.com/your-username">GitHub</a> •
-  <a href="https://www.behance.net/">Behance</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=[یوزرنیم گیت‌هاب شما]&show_icons=true&theme=dracula" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[یوزرنیم گیت‌هاب شما]&layout=compact&theme=dracula" alt="Top Languages">
 </p>
 
 ---
 
-### About
+### 📬 با من در ارتباط باشید
 
-I’m a frontend developer focused on building interfaces that are not only visually clean, but also maintainable, scalable, and reliable in production.
-
-My experience includes working on real-world products, handling authentication flows, maintaining legacy React applications, and collaborating across design and development.
-
-I’m especially interested in frontend architecture, performance, and writing code that stays understandable as products grow.
-
----
-
-### Selected Work
-
-**Talash365**  
-A gold trading platform built with React, TypeScript, TailwindCSS, React Query, Context API, Axios, and PWA capabilities.  
-Focused on frontend implementation, authentication flow, server-state handling, and responsive UI development.
-
-**Shatabar**  
-A freight management platform built on a legacy class-based React codebase.  
-Worked on maintaining the existing system, implementing new features, and improving stability while navigating older architecture patterns.
-
----
-
-### Stack
-
-`React` `TypeScript` `Next.js` `TailwindCSS` `React Query` `JavaScript` `Git` `Figma` `PWA`
-
----
-
-### Currently Exploring
-
-- React rendering and performance
-- Scalable frontend architecture
-- Advanced TypeScript
-- Debugging and profiling workflows
-
----
-
-### Contact
-
-- **Email:** alidlgsh@gmail.com
-- **GitHub:** github.com/your-username
+<p align="center">
+  <a href="[لینک لینکدین شما]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:[ایمیل شما]" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <!-- شبکه‌های اجتماعی دیگر را اضافه کنید -->
+</p>
