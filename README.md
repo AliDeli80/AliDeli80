@@ -2,63 +2,43 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Ali%20Delgoshaei&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Frontend+Engineer;React+%7C+TypeScript+%7C+Next.js;Building+scalable+frontend+systems;Architecture+%E2%80%A2+Performance+%E2%80%A2+Maintainability"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Engineer;React+%7C+TypeScript+%7C+Next.js;Building+scalable+frontend+systems;Architecture+%E2%80%A2+Performance+%E2%80%A2+Maintainability"/>
 
-<br/>
+</div>
 
-<a href="https://react.dev">
-<img src="https://skillicons.dev/icons?i=react&theme=dark"/>
-</a>
-<a href="https://nextjs.org">
-<img src="https://skillicons.dev/icons?i=nextjs&theme=dark"/>
-</a>
-<a href="https://www.typescriptlang.org">
-<img src="https://skillicons.dev/icons?i=ts&theme=dark"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://skillicons.dev/icons?i=js&theme=dark"/>
-</a>
-<a href="https://tailwindcss.com">
-<img src="https://skillicons.dev/icons?i=tailwind&theme=dark"/>
-</a>
-<a href="https://redux.js.org">
-<img src="https://skillicons.dev/icons?i=redux&theme=dark"/>
-</a>
+<br>
 
-<br/>
+<div align="center">
 
-<a href="https://vitejs.dev">
-<img src="https://skillicons.dev/icons?i=vite&theme=dark"/>
-</a>
-<a href="https://nodejs.org">
-<img src="https://skillicons.dev/icons?i=nodejs&theme=dark"/>
-</a>
-<a href="https://git-scm.com">
-<img src="https://skillicons.dev/icons?i=git&theme=dark"/>
-</a>
-<a href="https://github.com">
-<img src="https://skillicons.dev/icons?i=github&theme=dark"/>
-</a>
-<a href="https://www.figma.com">
-<img src="https://skillicons.dev/icons?i=figma&theme=dark"/>
-</a>
-<a href="https://code.visualstudio.com">
-<img src="https://skillicons.dev/icons?i=vscode&theme=dark"/>
-</a>
+<a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react&theme=dark" /></a>
+<a href="https://nextjs.org"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" /></a>
+<a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts&theme=dark" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" /></a>
+<a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" /></a>
+<a href="https://redux.js.org"><img src="https://skillicons.dev/icons?i=redux&theme=dark" /></a>
+
+</div>
+
+<div align="center">
+
+<a href="https://vitejs.dev"><img src="https://skillicons.dev/icons?i=vite&theme=dark" /></a>
+<a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" /></a>
+<a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git&theme=dark" /></a>
+<a href="https://github.com"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a>
+<a href="https://figma.com"><img src="https://skillicons.dev/icons?i=figma&theme=dark" /></a>
+<a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" /></a>
 
 </div>
 
 ---
 
-## About Me
+## About
 
-Frontend engineer focused on building **scalable and maintainable web interfaces** using modern React ecosystems.
+Frontend engineer focused on building **scalable and maintainable interfaces** using modern React ecosystems.
 
-My work revolves around **component architecture, predictable state management, and reliable async data flows** in real production environments.
+My work revolves around **component architecture, predictable state flows, and async data systems** inside real production environments.
 
-I care deeply about long‑term maintainability, performance characteristics, and writing systems that remain understandable as they grow.
-
-> Clean systems scale. Improvised ones collapse.
+I prioritize systems that remain understandable as they grow.
 
 ---
 
@@ -66,8 +46,9 @@ I care deeply about long‑term maintainability, performance characteristics, an
 
 I care more about **how systems age** than how they look on day one.
 
-I favor explicit data flow, predictable state, and simple solutions that remain understandable under pressure.  
-When a system becomes difficult to reason about, performance and scalability stop mattering.
+Explicit data flow, predictable state, and understandable architecture matter more than clever abstractions.
+
+If a system becomes hard to reason about, performance and scalability stop mattering.
 
 Clean abstractions are earned through real constraints — not invented prematurely.
 
@@ -75,33 +56,59 @@ Clean abstractions are earned through real constraints — not invented prematur
 
 ## How I Approach Frontend Work
 
-- I design components around **data boundaries**, not UI fragments.
-- I treat global state as a cost that must justify itself.
-- I prefer composition over deeply configurable components.
-- I refactor continuously to keep complexity visible and controlled.
-- I write code for the engineer who will touch it six months later.
+- Design components around **data boundaries**, not UI fragments  
+- Treat global state as a cost that must justify itself  
+- Prefer composition over configurable mega‑components  
+- Refactor continuously to keep complexity visible  
+- Write code for the next engineer who touches it
 
 ---
 
-## GitHub Activity
+# GitHub Insights
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AliDeli80&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=AliDeli80&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliDeli80&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
-<img width="850" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliDeli80&theme=tokyonight"/>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=AliDeli80&label=Profile%20Views&color=3d7fff&style=flat"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliDeli80&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
----
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliDeli80&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AliDeli80&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AliDeli80&theme=tokyonight" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AliDeli80&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=AliDeli80&style=for-the-badge&color=blue" />
+
+</div>
+
+<br>
 
 <div align="center">
 
