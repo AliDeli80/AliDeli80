@@ -1,53 +1,65 @@
 <div align="center">
 
 # Ali Delgoshaei
-### Frontend Engineer 
+### Frontend Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Building+scalable+frontend+systems;Focusing+on+performance+&+architecture;Turning+complex+logic+into+clean+UI" alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=FFFFFF&center=true&width=520&lines=Designing+scalable+frontend+systems;Engineering+maintainable+React+applications;Clean+architecture+over+quick+fixes" />
 
----
+<br/>
 
-`React` • `TypeScript` • `Next.js` • `Architecture`
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,js,git,figma,vscode"/>
+<img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,js,git,figma&theme=dark"/>
 
 </div>
 
 ---
 
-### ✦ Philosophy
-Building software isn't just about shipping features—it's about the **engineering craft**. I focus on creating interfaces that remain maintainable as they grow, prioritizing performance and user experience above all.
+## About Me
+
+I’m a frontend engineer focused on building **robust, scalable, and maintainable web applications**.
+
+I work primarily with **React and modern frontend tooling**, paying close attention to **architecture, state management, performance, and long‑term code health**.  
+I enjoy working on systems that grow over time—whether that means evolving a legacy codebase or designing clean foundations from the start.
+
+I value clarity over cleverness, and engineering discipline over shortcuts.
 
 ---
 
-### ✦ Selected Works
+## Engineering Principles
 
-*   **[Talash365](https://github.com/your-username)** — A high-performance trading ecosystem.
-*   **[Shatabar](https://github.com/your-username)** — Modernizing legacy architecture.
-
-*(Looking for more? Check my pinned repositories.)*
+- Predictable state and data flow  
+- Explicit architecture decisions  
+- Performance as a feature, not an afterthought  
+- Code that reads well six months later  
 
 ---
 
-### ✦ Stats
+## Current Focus
+
+- Advanced React rendering patterns  
+- Frontend system design & architecture  
+- TypeScript for large-scale applications  
+- Debugging and performance profiling
+
+---
+
+## Activity
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=transparent&hide_border=true" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=555555&style=flat" />
+
 </div>
 
 ---
 
 <div align="center">
 
-![Contribution](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dracula&hide_border=true)
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat">
-
----
-
-*Always learning. Always shipping.*
+_Thinking in systems. Building with intent._
 
 </div>
