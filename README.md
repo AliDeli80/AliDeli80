@@ -1,53 +1,46 @@
 <div align="center">
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Ali%20Delgoshaei&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=900&color=0FF4F4&center=true&vCenter=true&width=600&lines=Ali+Delgoshaei;Frontend+Engineer;System+thinker+%7C+Performance+driven+%7C+React+specialist" />
-
-<br/><br/>
-
-### ⚛️ React • 🧩 TypeScript • ⚡ Next.js • 🎨 UI Architecture • 🌀 State Systems
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Frontend+Engineer;React+%7C+TypeScript+%7C+Next.js;Building+scalable+frontend+systems;Architecture+%E2%80%A2+Performance+%E2%80%A2+Maintainability"/>
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,vite,git,github,html,css,figma,nodejs,python,bootstrap,postgres,vscode&theme=dark" />
-
----
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,vite,html,css,nodejs,python,postgres,git,github,figma,vscode&perline=8&theme=dark"/>
 
 </div>
 
+---
+
 ## About Me
 
-I’m a frontend engineer obsessed with **scalable systems**, predictable UI behavior, and code that ages gracefully.
+Frontend engineer focused on building **robust, scalable web interfaces** with modern React tooling.
 
-I specialize in building **React + TypeScript frontends** with a focus on:
+My work centers around designing **predictable UI systems**, structuring maintainable component architecture, and managing complex asynchronous data flows in production applications.
 
-- architecture & state modeling  
-- performance-first patterns  
-- maintainable component systems  
-- clean data flow and predictable async behavior
+I care deeply about **long‑term code quality, performance characteristics, and developer ergonomics**.
 
-I’m comfortable working on both **greenfield builds** and **legacy React systems** that need modernization.
-
-I don’t just “write components”—I design **frontends that survive complexity**.
+Clean systems scale. Improvised ones collapse.
 
 ---
 
-## Core Skillset
+<img src="https://user-images.githubusercontent.com/74038190/212284103-6a7a6f2e-7a5c-4b70-8e7a-4a9e0a0e9c2b.gif" width="100%">
+
+## Core Technologies
 
 <div align="center">
 
-### 🧠 Languages
+### Languages
 <img src="https://skillicons.dev/icons?i=ts,js,python&theme=dark"/>
 
-### ⚛️ Frontend Ecosystem
+### Frontend
 <img src="https://skillicons.dev/icons?i=react,nextjs,redux,vite,tailwind,bootstrap&theme=dark"/>
 
-### 🛠️ Tools & Workflow
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark"/>
-
-### 📡 APIs & Data Handling
+### Data & APIs
 <img src="https://skillicons.dev/icons?i=nodejs,postgres&theme=dark"/>
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark"/>
 
 </div>
 
@@ -55,25 +48,31 @@ I don’t just “write components”—I design **frontends that survive comple
 
 ## Engineering Interests
 
-- React internals & rendering behavior  
-- System design for large frontends  
-- Advanced TypeScript utility patterns  
-- UI performance profiling  
-- Modernizing legacy codebases
+- Frontend system architecture  
+- Advanced React rendering behavior  
+- State modeling & async data patterns  
+- Performance optimization & profiling  
+- Refactoring and modernizing legacy codebases
 
 ---
 
-## Activity
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<br/><br/>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=2d9cec&style=flat" />
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=3d7fff&style=flat"/>
 
 </div>
 
@@ -81,6 +80,6 @@ I don’t just “write components”—I design **frontends that survive comple
 
 <div align="center">
 
-### _Architecture over improvisation. Systems over chaos._
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 
 </div>
