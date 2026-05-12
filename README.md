@@ -1,16 +1,88 @@
-<h1 align="center">Hi 👋, I'm Ali Deli</h1>
-- 🌱 I’m currently learning **react**
+# Hi, I'm Ali 👋  
+Frontend Developer | React & TypeScript
 
-- 💬 Ask me about **HTML, JavaScript, CSS, tailwind**
+I'm a frontend developer focused on building **clean, scalable, and user‑friendly web applications**.  
+I enjoy working on real-world products, maintaining legacy systems, and improving frontend architecture and performance.
 
-- 📫 How to reach me **alidlgsh@gmail.com**
+---
 
-- ⚡ Fun fact **I love games!**
+## 🧠 What I work with
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ali-delgoshaei-6b89532ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ali-delgoshaei-6b89532ab/" height="30" width="40" /></a>
-</p>
+**Frontend**
+- React
+- TypeScript
+- Next.js
+- Tailwind CSS
+- React Query (TanStack Query)
+- Context API
+- PWA
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+**Tools & Others**
+- Git & GitHub
+- Figma (collaboration with designers)
+- REST APIs
+- Axios
+- SQL (basic)
+- Python (basic)
+
+---
+
+## 💼 Experience
+
+### Frontend Developer (React)
+**Dec 2025 — Present**
+
+- Designed and developed production-ready frontend applications
+- Worked with authenticated systems using **AccessToken / RefreshToken** flows
+- Maintained and extended existing codebases, including legacy **class-based React projects**
+- Focused on clean UI, maintainable architecture, and performance
+
+---
+
+## 🚀 Selected Projects
+
+### 🟡 Talash365 – Gold Trading Platform
+A web-based platform for gold trading and price tracking.
+
+**Tech Stack:**  
+React, TypeScript, Vite, TailwindCSS, React Query, Context API, Axios, PWA
+
+**Highlights:**
+- Implemented authentication and token refresh logic
+- Built responsive UI with Tailwind
+- Integrated API caching and state synchronization using React Query
+- Delivered a PWA-ready frontend experience
+
+---
+
+### 🚚 Shatabar – Freight Management System
+A legacy truck freight management system.
+
+**Tech Stack:**  
+React (Class-Based Components)
+
+**Highlights:**
+- Maintained and refactored an existing large codebase
+- Added new features while preserving system stability
+- Updated outdated dependencies and improved developer experience
+- Gained hands-on experience with legacy React patterns
+
+---
+
+## 📈 Currently Improving
+
+- React performance & rendering behavior
+- Frontend architecture for large-scale apps
+- Advanced TypeScript patterns
+- Debugging & profiling with DevTools
+
+---
+
+## 📫 Contact
+
+- Email: **alidlgsh@gmail.com**
+- GitHub: **github.com/your-username**
+
+---
+
+> I enjoy learning by building real products and solving real problems.
