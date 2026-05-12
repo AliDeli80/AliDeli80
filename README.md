@@ -72,7 +72,7 @@ Clean systems scale. Improvised ones collapse.
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=3d7fff&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=AliDeli80&label=Profile%20Views&color=3d7fff&style=flat"/>
 
 </div>
 
