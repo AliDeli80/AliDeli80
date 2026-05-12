@@ -32,7 +32,7 @@
 
 ---
 
-## About
+## 🔹 About Me 
 
 Frontend engineer focused on building **scalable and maintainable interfaces** using modern React ecosystems.
 
@@ -42,7 +42,7 @@ I prioritize systems that remain understandable as they grow.
 
 ---
 
-## Technical Philosophy
+## 🔹 Technical Philosophy
 
 I care more about **how systems age** than how they look on day one.
 
@@ -54,7 +54,7 @@ Clean abstractions are earned through real constraints — not invented prematur
 
 ---
 
-## How I Approach Frontend Work
+## 🔹 How I Approach Frontend Work
 
 - Design components around **data boundaries**, not UI fragments  
 - Treat global state as a cost that must justify itself  
@@ -64,7 +64,7 @@ Clean abstractions are earned through real constraints — not invented prematur
 
 ---
 
-# GitHub Insights
+## 🔹 Activity & Graphs
 
 <div align="center">
 
@@ -84,8 +84,15 @@ Clean abstractions are earned through real constraints — not invented prematur
 
 <br/>
 
+## 🔹 Footer / Signature
+
+---
+
 <p align="center">
-  <sub>—</sub>
+  <sub>
+    Ali Delgashaei • Frontend Engineer<br/>
+    I design frontend systems with clarity, restraint, and long-term thinking
+  </sub>
 </p>
 
 <br>
