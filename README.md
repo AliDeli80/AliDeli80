@@ -1,82 +1,53 @@
-<h1 align="center">Ali Delgoshaei</h1>
+<div align="center">
 
-<p align="center">
-Frontend Engineer focused on building scalable, reliable, and well‑crafted web applications.
-</p>
+# Ali Delgoshaei
+### Frontend Engineer 
 
-<p align="center">
-<a href="mailto:alidlgsh@gmail.com">
-<img src="https://img.shields.io/badge/email-contact-red?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href="https://github.com/your-username">
-<img src="https://img.shields.io/badge/github-profile-black?style=for-the-badge&logo=github">
-</a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Building+scalable+frontend+systems;Focusing+on+performance+&+architecture;Turning+complex+logic+into+clean+UI" alt="Typing" />
 
 ---
 
-## About
+`React` • `TypeScript` • `Next.js` • `Architecture`
 
-I’m a frontend developer who enjoys building **production‑grade interfaces** with a strong focus on **maintainability, performance, and clean architecture**.
+<br>
 
-My experience includes developing real-world applications, implementing authentication flows, and maintaining legacy React systems while gradually improving their structure and developer experience.
+<img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,js,git,figma,vscode"/>
 
-I care about writing code that **scales with products and teams**, not just code that works.
-
----
-
-## Tech Stack
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,js,git,github,figma"/>
-
-</p>
-
-**Core:** React • TypeScript • Next.js  
-**Data & API:** React Query • Axios • REST APIs  
-**UI:** TailwindCSS • Responsive Design  
-**Tools:** Git • GitHub • Figma  
-**Other:** PWA • Basic SQL • Basic Python
+</div>
 
 ---
 
-## Selected Work
-
-### Talash365 — Gold Trading Platform
-
-Frontend implementation for a gold trading platform using **React, TypeScript, TailwindCSS, and React Query**.
-
-Key contributions include implementing authentication with **AccessToken / RefreshToken flows**, managing server state, and delivering a responsive interface with PWA capabilities.
+### ✦ Philosophy
+Building software isn't just about shipping features—it's about the **engineering craft**. I focus on creating interfaces that remain maintainable as they grow, prioritizing performance and user experience above all.
 
 ---
 
-### Shatabar — Freight Management System
+### ✦ Selected Works
 
-Worked on a freight management platform built with **class‑based React architecture**.
+*   **[Talash365](https://github.com/your-username)** — A high-performance trading ecosystem.
+*   **[Shatabar](https://github.com/your-username)** — Modernizing legacy architecture.
 
-Responsibilities included maintaining a large legacy codebase, implementing new features, updating outdated dependencies, and ensuring system stability while improving development workflow.
-
----
-
-## Current Focus
-
-- React rendering behavior & performance
-- Frontend architecture for scalable applications
-- Advanced TypeScript patterns
-- Debugging and profiling workflows
+*(Looking for more? Check my pinned repositories.)*
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=transparent&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=transparent&hide_border=true"/>
-</p>
+### ✦ Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
+</div>
 
 ---
 
-<p align="center">
-Building thoughtful interfaces and reliable frontend systems.
-</p>
+<div align="center">
+
+![Contribution](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dracula&hide_border=true)
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat">
+
+---
+
+*Always learning. Always shipping.*
+
+</div>
