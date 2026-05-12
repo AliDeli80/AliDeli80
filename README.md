@@ -6,21 +6,45 @@
 
 <br/>
 
-<a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react&theme=dark"/></a>
-<a href="https://nextjs.org"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark"/></a>
-<a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts&theme=dark"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark"/></a>
-<a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark"/></a>
-<a href="https://redux.js.org"><img src="https://skillicons.dev/icons?i=redux&theme=dark"/></a>
+<a href="https://react.dev">
+<img src="https://skillicons.dev/icons?i=react&theme=dark"/>
+</a>
+<a href="https://nextjs.org">
+<img src="https://skillicons.dev/icons?i=nextjs&theme=dark"/>
+</a>
+<a href="https://www.typescriptlang.org">
+<img src="https://skillicons.dev/icons?i=ts&theme=dark"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=js&theme=dark"/>
+</a>
+<a href="https://tailwindcss.com">
+<img src="https://skillicons.dev/icons?i=tailwind&theme=dark"/>
+</a>
+<a href="https://redux.js.org">
+<img src="https://skillicons.dev/icons?i=redux&theme=dark"/>
+</a>
 
 <br/>
 
-<a href="https://vitejs.dev"><img src="https://skillicons.dev/icons?i=vite&theme=dark"/></a>
-<a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark"/></a>
-<a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git&theme=dark"/></a>
-<a href="https://github.com"><img src="https://skillicons.dev/icons?i=github&theme=dark"/></a>
-<a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma&theme=dark"/></a>
-<a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode&theme=dark"/></a>
+<a href="https://vitejs.dev">
+<img src="https://skillicons.dev/icons?i=vite&theme=dark"/>
+</a>
+<a href="https://nodejs.org">
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark"/>
+</a>
+<a href="https://git-scm.com">
+<img src="https://skillicons.dev/icons?i=git&theme=dark"/>
+</a>
+<a href="https://github.com">
+<img src="https://skillicons.dev/icons?i=github&theme=dark"/>
+</a>
+<a href="https://www.figma.com">
+<img src="https://skillicons.dev/icons?i=figma&theme=dark"/>
+</a>
+<a href="https://code.visualstudio.com">
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark"/>
+</a>
 
 </div>
 
@@ -28,22 +52,59 @@
 
 ## About Me
 
-Frontend engineer focused on building **robust, scalable web interfaces** using modern React‑based stacks.
+Frontend engineer focused on building **scalable and maintainable web interfaces** using modern React ecosystems.
 
-I specialize in **component architecture**, **state management**, and **async data flows** inside real production systems — not demos.
+My work revolves around **component architecture, predictable state management, and reliable async data flows** in real production environments.
 
-I value long‑term maintainability, performance characteristics, and clean abstractions.
+I care deeply about long‑term maintainability, performance characteristics, and writing systems that remain understandable as they grow.
 
 > Clean systems scale. Improvised ones collapse.
 
 ---
 
-## Engineering Profile
-```txt
-Focus Areas:
-- Frontend architecture
-- Scalable component systems
-- State management patterns
-- Async data handling
-- Performance optimization
-- Maintainable codebases
+## Technical Philosophy
+
+I care more about **how systems age** than how they look on day one.
+
+I favor explicit data flow, predictable state, and simple solutions that remain understandable under pressure.  
+When a system becomes difficult to reason about, performance and scalability stop mattering.
+
+Clean abstractions are earned through real constraints — not invented prematurely.
+
+---
+
+## How I Approach Frontend Work
+
+- I design components around **data boundaries**, not UI fragments.
+- I treat global state as a cost that must justify itself.
+- I prefer composition over deeply configurable components.
+- I refactor continuously to keep complexity visible and controlled.
+- I write code for the engineer who will touch it six months later.
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AliDeli80&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliDeli80&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
+
+<img width="850" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliDeli80&theme=tokyonight"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=AliDeli80&label=Profile%20Views&color=3d7fff&style=flat"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+
+</div>
