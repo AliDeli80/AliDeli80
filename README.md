@@ -14,7 +14,6 @@
 <a href="https://redux.js.org"><img src="https://skillicons.dev/icons?i=redux&theme=dark"/></a>
 <a href="https://vitejs.dev"><img src="https://skillicons.dev/icons?i=vite&theme=dark"/></a>
 <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark"/></a>
-<a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres&theme=dark"/></a>
 <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git&theme=dark"/></a>
 <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github&theme=dark"/></a>
 <a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma&theme=dark"/></a>
