@@ -6,7 +6,19 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,vite,html,css,nodejs,python,postgres,git,github,figma,vscode&perline=8&theme=dark"/>
+<a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react&theme=dark"/></a>
+<a href="https://nextjs.org"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark"/></a>
+<a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts&theme=dark"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark"/></a>
+<a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark"/></a>
+<a href="https://redux.js.org"><img src="https://skillicons.dev/icons?i=redux&theme=dark"/></a>
+<a href="https://vitejs.dev"><img src="https://skillicons.dev/icons?i=vite&theme=dark"/></a>
+<a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark"/></a>
+<a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres&theme=dark"/></a>
+<a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git&theme=dark"/></a>
+<a href="https://github.com"><img src="https://skillicons.dev/icons?i=github&theme=dark"/></a>
+<a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma&theme=dark"/></a>
+<a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode&theme=dark"/></a>
 
 </div>
 
@@ -14,33 +26,36 @@
 
 ## About Me
 
-Frontend engineer focused on building **robust, scalable web interfaces** with modern React tooling.
+Frontend engineer focused on building **robust, scalable web interfaces** using modern React‑based stacks.
 
-My work centers around designing **predictable UI systems**, structuring maintainable component architecture, and managing complex asynchronous data flows in production applications.
+I specialize in **component architecture**, **state management**, and **async data flows** inside real production systems — not demos.
 
-I care deeply about **long‑term code quality, performance characteristics, and developer ergonomics**.
+I value long‑term maintainability, performance characteristics, and clean abstractions.
 
-Clean systems scale. Improvised ones collapse.
+> Clean systems scale. Improvised ones collapse.
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284103-6a7a6f2e-7a5c-4b70-8e7a-4a9e0a0e9c2b.gif" width="100%">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-## Core Technologies
+---
+
+## Technical Signature
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=ts,js,python&theme=dark"/>
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,vite,tailwind,bootstrap&theme=dark"/>
-
-### Data & APIs
-<img src="https://skillicons.dev/icons?i=nodejs,postgres&theme=dark"/>
-
-### Tools
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark"/>
+<a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react&theme=dark"/></a>
+<a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts&theme=dark"/></a>
+<a href="https://nextjs.org"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark"/></a>
+<a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark"/></a>
+<a href="https://redux.js.org"><img src="https://skillicons.dev/icons?i=redux&theme=dark"/></a>
+<a href="https://vitejs.dev"><img src="https://skillicons.dev/icons?i=vite&theme=dark"/></a>
+<a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark"/></a>
+<a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres&theme=dark"/></a>
+<a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git&theme=dark"/></a>
+<a href="https://github.com"><img src="https://skillicons.dev/icons?i=github&theme=dark"/></a>
+<a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma&theme=dark"/></a>
+<a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode&theme=dark"/></a>
 
 </div>
 
@@ -52,7 +67,7 @@ Clean systems scale. Improvised ones collapse.
 - Advanced React rendering behavior  
 - State modeling & async data patterns  
 - Performance optimization & profiling  
-- Refactoring and modernizing legacy codebases
+- Refactoring and modernizing legacy codebases  
 
 ---
 
@@ -60,17 +75,18 @@ Clean systems scale. Improvised ones collapse.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AliDeli80&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=AliDeli80&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliDeli80&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliDeli80&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
+<br/><br/>
 
-<div align="center">
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=AliDeli80&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AliDeli80&theme=tokyonight&hide_border=true"/>
-
-<br>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=AliDeli80&label=Profile%20Views&color=3d7fff&style=flat"/>
 
